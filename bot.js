@@ -58,7 +58,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By iiAkram_DZ , Farm Credit By CHERIFI, ez Farm - أكرم طغا **[ " ${x} " ]`)
+        message.channel.send(`**أكـــــرم طغــــا ههههههه **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -72,7 +72,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By iiAkram_DZ , Farm Credit By Cherifi, ez Farm - أكرم طغا **[ " ${x} " ]`)
+        message.channel.send(`**نتــــــا مريـــــض تعاندنــــــي **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
