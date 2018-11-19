@@ -4,9 +4,7 @@ const client2 = new Discord.Client();
 
 client.on('ready', () => {
    console.log(`----------------`);
-   console.log(`***
-أكرم طغا
-*** `);
+   console.log(`أكــــــرم طــــغا  `);
    console.log(`----------------`);
    console.log(`Loadinng`);
    console.log(`Loadinng.`);
