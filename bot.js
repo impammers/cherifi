@@ -4,7 +4,7 @@ const client2 = new Discord.Client();
 
 client.on('ready', () => {
    console.log(`----------------`);
-   console.log(`أكــــــرم طــــغا  `);
+   console.log( ` Make Money Not friends `);
    console.log(`----------------`);
    console.log(`Loadinng`);
    console.log(`Loadinng.`);
